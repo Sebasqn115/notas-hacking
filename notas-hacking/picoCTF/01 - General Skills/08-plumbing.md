@@ -7,10 +7,21 @@ Hints:
 
 ### Solución
 Con Webshell
-`'''`
+```
 `Sebas115-picoctf@webshell:~$ nc jupiter.challenges.picoctf.org 7480 | grep picoCTF`
 `picoCTF{digital_plumb3r_06e9d954}`
-`'''`
+```
+
+
+### Solución
+Con Webshell
+```
+Sebas115-picoctf@webshell:~$ nc jupiter.challenges.picoctf.org 7480 > datos
+
+Sebas115-picoctf@webshell:~$ cat datos | grep pico
+picoCTF{digital_plumb3r_06e9d954}
+```
+
 ### Notas adicionales
 El servidor de nc contiene información desordenada que evita ver la flag a primera vista.
 Mediante | utilizado como tubería y con el comando grep y especificando la palabra "picoCTF" se hace una busqueda en la salida de nc para obtener la cadena que contenga la palabra "picoCTF" la cual es la flag que estamos buscando.

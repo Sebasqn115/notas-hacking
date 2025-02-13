@@ -11,13 +11,13 @@ Hints:
 
 ### Solución
 Con Webshell
-'''
+```
 `Sebas115-picoctf@webshell:~$ nc saturn.picoctf.net 53777`
 `'picoCTF{gl17ch_m3_n07_' + chr(0x62) + chr(0x64) + chr(0x61) + chr(0x36) + chr(0x38) + chr(0x66) + chr(0x37) + chr(0x35) + '}'`
-'''
+```
 
 Con Python
-`'''`
+```
 `Sebas115-picoctf@webshell:~$ python`
 `Python 3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0] on linux`
 `Type "help", "copyright", "credits" or "license" for more information.`
@@ -37,12 +37,25 @@ Con Python
 `'7'`
 >>> `chr(0x35)`
 `'5'`
-`'''`
+```
 
 Finalmente se junta la primera parte obtenida de webshell: gl17ch_m3_n07_
 Con los caracteres obtenidos de cada base en python: bda68f75
 Resultado: gl17ch_m3_n07_bda68f75
+
 ### Notas adicionales
+
+Se puede poner toda la cadena en python.
+```
+Sebas115-picoctf@webshell:~$ nc saturn.picoctf.net 61813
+'picoCTF{gl17ch_m3_n07_' + chr(0x62) + chr(0x64) + chr(0x61) + chr(0x36) + chr(0x38) + chr(0x66) + chr(0x37) + chr(0x35) + '}'
+^C      
+Sebas115-picoctf@webshell:~$ python
+Python 3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 'picoCTF{gl17ch_m3_n07_' + chr(0x62) + chr(0x64) + chr(0x61) + chr(0x36) + chr(0x38) + chr(0x66) + chr(0x37) + chr(0x35) + '}'
+'picoCTF{gl17ch_m3_n07_bda68f75}'
+```
 
 ### Referencias
 https://webshell.picoctf.org/

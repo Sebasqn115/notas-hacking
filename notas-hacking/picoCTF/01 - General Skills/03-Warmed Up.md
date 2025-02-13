@@ -6,24 +6,25 @@ Hints:
 
 ### Solución
 Con Webshell
-`'''`
+```
 `Sebas115-picoctf@webshell:~$ python`
 `Python 3.10.12 (main, Sep 11 2024, 15:47:36) [GCC 11.4.0] on linux`
 `Type "help", "copyright", "credits" or "license" for more information.`
 >>> `int(0x3D)`
 `61`
-`'''`
+```
 
 **Solución 2**
 Usando cyberchef https://gchq.github.io/CyberChef/#recipe=From_Hex('Auto')&input=MHg3MA
 
-'''
+```
 `Input: 0x3D`
 `Recipe: To Base 10`
 `Output: 61`
-'''
+```
 
 ### Notas adicionales
+
 
 ### Referencias
 https://webshell.picoctf.org/
