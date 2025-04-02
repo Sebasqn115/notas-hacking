@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Web3/03-JaWT Scratchpad.md",
+                "file": "picoCTF/Web4/04-Most Cookies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-JaWT Scratchpad"
+              "title": "04-Most Cookies"
             }
           }
         ]
@@ -170,8 +170,21 @@
   },
   "active": "5223b0a6d97eb5d8",
   "lastOpenFiles": [
-    "Pasted image 20250325123653.png",
+    "picoCTF/Web4/02-SOAP.md",
+    "picoCTF/Web4/04-Most Cookies.md",
+    "picoCTF/Web4/03-Trickster.md",
+    "picoCTF/Web4/01-MatchTheRegex.md",
+    "picoCTF/Foresinc 1/05-What Lies Within.md",
+    "picoCTF/Foresinc 1/02-So Meta.md",
+    "picoCTF/Foresinc 1/03-shark on wire 1.md",
+    "picoCTF/Foresinc 1/04-extensions.md",
+    "picoCTF/Foresinc 1/01-Glory of the Garden.md",
+    "Imagen de WhatsApp 2025-04-01 a las 17.31.36_e4b2383e.jpg",
+    "picoCTF/Foresinc 1",
+    "picoCTF/Sin nombre",
     "picoCTF/Web3/03-JaWT Scratchpad.md",
+    "picoCTF/Web4",
+    "Pasted image 20250325123653.png",
     "picoCTF/Web3/02-More SQLi.md",
     "picoCTF/Web3/01-Irish-Name-Repo1.md",
     "picoCTF/Web2/01-GET aHEAD.md",
@@ -191,19 +204,8 @@
     "picoCTF/Tarea 1 - General Skills/01-permissions.md",
     "picoCTF/Web1",
     "picoCTF/Tarea 1 - General Skills/07-collaborative development.md",
-    "picoCTF/Tarea 1 - General Skills/08-binary search.md",
-    "picoCTF/Tarea 1 - General Skills/10-ASCII Numbers.md",
-    "picoCTF/Tarea 1 - General Skills/09-binhexa.md",
-    "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
-    "picoCTF/Tarea 1 - General Skills/06-blame game.md",
-    "picoCTF/Tarea 1 - General Skills/05-time machine.md",
-    "picoCTF/Tarea 1 - General Skills/04-committee issue.md",
-    "picoCTF/Tarea 1 - General Skills/03-special.md",
-    "picoCTF/Tarea 1 - General Skills/02-chrono.md",
     "picoCTF/Tarea 1 - General Skills",
     "picoCTF/03 - General Skills",
-    "picoCTF/02 - General Skills",
-    "picoCTF/01 - General Skills",
-    "picoCTF"
+    "picoCTF/02 - General Skills"
   ]
 }
