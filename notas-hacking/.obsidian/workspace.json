@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Primer Parcial - Parte 2 - Web/07-Java Code Analysis!!.md",
+                "file": "picoCTF/Forensic 3/05-MacroHard WeakEdge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "07-Java Code Analysis!!"
+              "title": "05-MacroHard WeakEdge"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Primer Parcial - Parte 1 - General Skills/03-Python Wrangling.md",
+                "file": "picoCTF/Forensic 3/01-WebNet0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-Python Wrangling"
+              "title": "01-WebNet0"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,8 +182,16 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "f267b0af61cf81a9",
+  "active": "b8b65bb6c2fcaad7",
   "lastOpenFiles": [
+    "picoCTF/Forensic 3/04-tunn3l_v1s10n.md",
+    "picoCTF/Forensic 3/03-Matryoshka doll.md",
+    "picoCTF/Forensic 3/05-MacroHard WeakEdge.md",
+    "picoCTF/Forensic 3/01-WebNet0.md",
+    "picoCTF/Forensic 3/02-Webnet1.md",
+    "picoCTF/Foresinc 1/01-Glory of the Garden.md",
+    "picoCTF/Foresinc 1/02-So Meta.md",
+    "picoCTF/Forensic 3",
     "picoCTF/Primer Parcial - Parte 1 - General Skills/02-HashingJobApp.md",
     "picoCTF/Primer Parcial - Parte 1 - General Skills/03-Python Wrangling.md",
     "picoCTF/Primer Parcial - Parte 1 - General Skills/01-FANTASY CTF.md",
@@ -205,14 +212,8 @@
     "picoCTF/Primer Parcial - Parte 1 - General Skills/07-dont-you-love-banners.md",
     "picoCTF/Primer Parcial - Parte 1 - General Skills/06-Rust fixme 3.md",
     "picoCTF/Primer Parcial - Parte 1 - General Skills/05-Rust fixme 2.md",
-    "picoCTF/Primer Parcial - Parte 1 - General Skills/04-Rust fixme 1.md",
-    "picoCTF/01 - General Skills/01 - Lets Warm Up.md",
     "picoCTF/Primer Parcial - Parte 2 - Web",
     "picoCTF/Primer Parcial - Parte 1 - General Skills",
-    "picoCTF/Sin título.md",
-    "picoCTF/Forensic 2/05-shark on wire 2.md",
-    "picoCTF/Forensic 2/04-like1000.md",
-    "picoCTF/Forensic 2/03-c0rrupt.md",
     "picoCTF/Forensic 2",
     "picoCTF/Tarea 2 - Retos Web",
     "Imagen de WhatsApp 2025-04-01 a las 17.31.36_e4b2383e.jpg",
@@ -221,7 +222,6 @@
     "Pasted image 20250325123653.png",
     "picoCTF/Web3",
     "picoCTF/Web2/Sin nombre",
-    "picoCTF/Web2",
-    "picoCTF/Web1"
+    "picoCTF/Web2"
   ]
 }
